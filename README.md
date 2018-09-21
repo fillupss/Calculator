@@ -1,7 +1,7 @@
 # CSC 413 - Project One
 
-## Student Name  : Name here
+## Student Name  : Philip Chen
 
-## Student ID    : ID here
+## Student ID    : 916263691
 
-## Student Email : Email here
+## Student Email : pchen5@mail.sfsu.edu
